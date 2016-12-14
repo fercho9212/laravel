@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                 helloo, this is mi first app :D
+                 new revolution
                 </div>
 
                 <div class="links">
